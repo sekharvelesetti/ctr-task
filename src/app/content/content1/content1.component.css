@@ -1,0 +1,77 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.input {
+    background-color: darkgreen;
+    color: black;
+    width: 43%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.select {
+    width: 100%;
+    background-color:darkgreen;
+    color:black;
+}
+
+.div {
+    border-radius: 10%;
+    background-color: darkgreen;
+    color: black;
+    height: 80px;
+    text-align: center;
+    margin-top: 5%;
+    width: 20%;
+   
+    
+}
+
+span {
+    background-color:lightblue;
+    border-radius: 10%;
+}
+
+h2 {
+    color: black;
+    padding: 10px;
+}
+
+.margin {
+    margin-left: 30%;
+}
+
+.margin1 {
+    margin-left: 10%;
+}
+
+.head {
+    font-size: large;
+    font-weight: bold;
+    color: black;
+}
+
+.head1 {
+    font-size: medium;
+    font-weight: 400;
+    color: black;
+}
+h4 {
+    background-color: lightgreen;
+    padding: 2px;
+    color: black;
+}
+
+.h4 {
+    background-color: darkgreen;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+.slider {
+    width: 300%;
+}

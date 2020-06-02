@@ -1,0 +1,47 @@
+.border {
+    border-radius: 15px;
+}
+
+.width  {
+    width: 100%;
+    
+}
+.width1 {
+width: 99%;
+}
+
+th {
+    background-color: green;
+}
+
+h2 {
+    background-color: lightgreen;
+    text-align: center;
+    font-weight: bold;
+}
+h3 {
+    font-weight: bold;
+}
+
+img {
+    width: auto;
+    height: 200px;
+}
+
+/* .margin {
+ margin-left: 40%;
+} */
+.width2 {
+    width: 100%;
+}
+.margin2{
+    margin-top:-2%
+}
+
+table th {
+    font-weight: bold;
+}
+
+.table1 {
+    height: 270px;
+}
